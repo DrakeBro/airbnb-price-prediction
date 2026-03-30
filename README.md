@@ -1,0 +1,2 @@
+Airbnb Price Prediction Model
+A data analysis project exploring what drives Airbnb listing prices using a real-world dataset. The analysis covers end-to-end data preprocessing — including cleaning, handling missing values, and encoding categorical variables — followed by exploratory data analysis through visualizations of price distributions and feature relationships. A Linear Regression model is built to quantify the impact of neighborhood, room type, and minimum nights on listing price, evaluated using the R² metric.
